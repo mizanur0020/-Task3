@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-table": "^0.3.11",
+    "cli-table3": "^0.6.5",
+    "crypto": "^1.0.1",
+    "figlet": "^1.8.0",
+    "readline-sync": "^1.4.10",
+    "table": "^6.9.0"
+  },
+  "name": "task-3",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
